@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865000240029",
+    "project_id": "vatlythpt-e5f80",
+    "storage_bucket": "vatlythpt-e5f80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865000240029:android:fb409bd9741d3fa9983574",
+        "android_client_info": {
+          "package_name": "com.example.vatlythpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865000240029-m139cml6hfn0ct0gkaena72imflof4pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdxHFN-tTatTmbWHYo2RH5VUdnbFLJCOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865000240029-m139cml6hfn0ct0gkaena72imflof4pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
